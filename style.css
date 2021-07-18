@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  background-color:  #CDCDCD;
+  font-family: sans-serif; 
+}
+
+h1{
+  background-color: grey;
+  font-size: 50px;
+}
+
+h4{
+  color:green;
+  font-size: 20px;
+}
+
+p{
+  font: sans-serif;
+}
+
+#image{
+  max-height: 100%;
+  height:auto;
+
+}
